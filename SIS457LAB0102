@@ -6,19 +6,19 @@ int main() {
 	string a = "yes";
 	string b = "no";
 	string c;
-	cout << " mi nombre es Chelsea Melany Espinoza Cava, tengo 19 años " << endl;
+	cout << " mi nombre es Chelsea Melany Espinoza Cava, tengo 18 años" << endl;
 	cout << " naci en Sucre, Bolivia un 27 de diciembre" << endl;
-	cout << " curse primaria en dos colegios ya que nos mudabamos seguido, secundaria pase en San Xavier A" << endl;
-	cout << " me gusta ecuchar musica, mido 156 cm" << endl;
+	cout << " curse primaria en varios colegios ya que nos mudabamos seguido" << endl;
+	cout << " me gusta ecuchar musica, comer, cantar, amo leer, en estos momentos voy escribiendo un libro y mido 156 cm" << endl;
 	cout << " deseas imprimir nuevamente la biografia?" << endl;
 	cout << " responda yes/no" << endl;
 	cin >> c;
 	while (c == "yes")
 	{
-		cout << " mi nombre es Chelsea Melany Espinoza Cava, tengo 19 años" << endl;
+		cout << " mi nombre es Chelsea Melany Espinoza Cava, tengo 18 años" << endl;
 		cout << " naci en Sucre, Bolivia un 27 de diciembre" << endl;
-		cout << " curse primaria en dos colegios ya que nos mudabamos seguido, secundaria pase en San Xavier A" << endl;
-		cout << " me gusta ecuchar musica, mido 156 cm" << endl;
+		cout << " curse primaria en varios colegios ya que nos mudabamos seguido" << endl;
+		cout << " me gusta ecuchar musica, comer, cantar, amo leer, en estos momentos voy escribiendo un libro y mido 156 cm"" << endl;
 		cout << " deseas imprimir nuevamente la biografia?" << endl;
 		cout << " responda yes/no" << endl;
 		cin >> c;
